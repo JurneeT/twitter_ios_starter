@@ -23,7 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe width="560" height="315" src= "https://www.youtube.com/watch?v=XqZsoesa55w" frameborder= "0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://youtu.be/TAr-LT0RiD4
 
